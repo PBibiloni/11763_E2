@@ -1,4 +1,4 @@
-# 11763 Procesamiento de Imagen Médica - Ejercicio 1
+# 11763 Procesamiento de Imagen Médica - Ejercicio 2
 
 Se plantean los siguientes objetivos:
 * Explorar una imagen DICOM, de la que extraemos una proyección en plano sagital para trabajar
